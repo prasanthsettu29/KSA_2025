@@ -1,7 +1,7 @@
 import { Avatar, AvatarImage, AvatarFallback } from "../ui/Avatar";
 import categories from '../../assets/categories-icon.png';
 import redirect1 from '../../assets/summaryRedirect1.png';
-import profile from '../../assets/Profile.png.png';
+import profile from '../../assets/Profile.png';
 import { useNavigate } from "react-router-dom";
 
 const Header = () => {
